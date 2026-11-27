@@ -1,3 +1,0 @@
-[deploy]
-startCommand = "npm start"
-numReplicas = 1
